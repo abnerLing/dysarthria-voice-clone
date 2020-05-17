@@ -44,5 +44,10 @@
   <img src="pictures/modified_pd.png" width="400"><br/>
   
   
-  - [dys](https://github.com/abnerLing/abnerLing.github.io/audio/original_d.wav)
+  <a href="audio/original_d.mp3">dysarthria</a>
+
+
+### Perception task results
+- I had native listners rate original and modified speech samples using a 1-9 compregensibility scale.
+  - The lower the rating the easier it is to understand the sentence while higher ratings means it was more difficult to understand the sentences.
   
