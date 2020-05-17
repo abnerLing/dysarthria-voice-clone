@@ -37,6 +37,6 @@
   <img src="pictures/align_ex.png" width="400"><br/>
 2. Clone the pitch and duration of healthy speech phones and apply them to the dysarthric speech phones.
   - This is an example of one speakers transformation saying: 추석에는 온 가족이 함께 송편을 만든다.<br/>
-[Original dysarthric speech](audio/original_d.wav)
+[Original dysarthric speech](audio/original_d.mp3)
   
   
