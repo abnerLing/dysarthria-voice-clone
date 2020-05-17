@@ -1,4 +1,8 @@
 ## Voice conversion/cloning for improving dysarthric speech (Korean & English)
+&nbsp;
+### ****Still working on uploading audio and completing part 3...
+&nbsp;
+&nbsp;
 - This repository is my own personal testing gorunds for improving dysarthric speech.
 - Some of the contents are from projects during my Masters program at Seoul National University.
 
