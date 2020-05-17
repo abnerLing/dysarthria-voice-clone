@@ -37,6 +37,12 @@
   <img src="pictures/align_ex.png" width="400"><br/>
 2. Clone the pitch and duration of healthy speech phones and apply them to the dysarthric speech phones.
   - This is an example of one speakers transformation saying: 추석에는 온 가족이 함께 송편을 만든다.<br/>
-[Original dysarthric speech](audio/original_d.mp3)
+  <img src="pictures/original_d.png" width="400"><br/>
+  - This is the same sentence but from a healthy speaker (note the pitch and duration differences).
+  <img src="pictures/original_h.png" width="400"><br/>
+  - This is the cloned sentence from the dysarthric speech (note the pitch and duration).
+  <img src="pictures/modified_pd.png" width="400"><br/>
   
+  
+  - [dys](https://github.com/abnerLing/abnerLing.github.io/tree/master/audio/original_d.wav)
   
