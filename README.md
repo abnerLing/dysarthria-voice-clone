@@ -43,11 +43,9 @@
   - This is the cloned sentence from the dysarthric speech (note the pitch and duration).
   <img src="pictures/modified_pd.png" width="400"><br/>
   
-  
-  <a href="audio/original_d.mp3">dysarthria</a>
-
 
 ### Perception task results
 - I had native listners rate original and modified speech samples using a 1-9 compregensibility scale.
   - The lower the rating the easier it is to understand the sentence while higher ratings means it was more difficult to understand the sentences.
-  
+  - As seen from the chart below, in most cases the modified speech was easier to understand.
+<img src="pictures/ratings.png" width="400"><br/>  
