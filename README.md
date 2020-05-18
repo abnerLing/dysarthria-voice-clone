@@ -26,14 +26,15 @@
   - The following work was part of a small project for a Phonetics course focusing on prosody.
     - "Influence of prosody on dysarthric speech comprehensibility" (2019).
   - Purpose of study was to see whether modifying the pitch and duration of dysarthric speech into healthy speech would lead to better comprehension from native speakers.
+  - The original praat script was used for cloning the prosody of non-native speech into native speech [2].
     
 #### Why prosody?
 - Several studies have shown that the prosodic qualities of dysarthric speech differs from healthy speech.
 - For example:
-  - Flattened F0 leading to monotonic speech [2]
-  - Overall higher F0 for severe dysarthria [3]
-- This also appears to be language independent since similar results have been shown with Korean speakers [4-6].
-- Lastly, despite the impaired and flattened F0 of dysarhtric speech, native listeners still have higher intelligibilty rating compared to modifying the signal to have a completely flat F0 [7,8].
+  - Flattened F0 leading to monotonic speech [3]
+  - Overall higher F0 for severe dysarthria [4]
+- This also appears to be language independent since similar results have been shown with Korean speakers [5-7].
+- Lastly, despite the impaired and flattened F0 of dysarhtric speech, native listeners still have higher intelligibilty rating compared to modifying the signal to have a completely flat F0 [8,9].
 
 #### PSOLA algorithm
 - Pitch Synchronous Overlap and Add
@@ -68,7 +69,7 @@
   - The following is a personal project to see if I could apply transfer learning to dysarthric speech in order to improve intelligibilty.
   
  #### Training Process
-- In order to apply a TTS-based voice clone for dysarthric speech I used the model [9] which was trained on English data.
+- In order to apply a TTS-based voice clone for dysarthric speech I used the model [10] which was trained on English data.
  - Refer to the article for more detailed information regarding the model.
  - The code I used was from this repo https://github.com/CorentinJ/Real-Time-Voice-Cloning
  <img src="pictures/tts.png" width="500"><br/>
@@ -93,12 +94,13 @@
 
 ## References
 [1]Choi, D. L., Kim, B. W., Lee, Y. J., Um, Y., & Chung, M. (2011, October). Design and creation of dysarthric speech database for development of QoLT software technology. In 2011 International Conference on Speech Database and Assessments (Oriental COCOSDA) (pp. 47-50). IEEE.<br/>
-[2] Bunton, K., Kent, R. D., Kent, J. F., & Rosenbek, J. C. (2000). Perceptuo-acoustic assessment of prosodic impairment in dysarthria. Clinical Linguistics & Phonetics, 14(1), 13-24.<br/>
-[3] Schlenck, K. J., Bettrich, R., & Willmes, K. (1993). Aspects of disturbed prosody in dysarthria. Clinical linguistics & phonetics, 7(2), 119-128.<br/>
-[4] Shin, H. B., & Ko, D. H. (2017). An aerodynamic and acoustic characteristics of Clear Speech in patients with Parkinson's disease. Phonetics and Speech Sciences, 9(3), 67-74.<br/> 
-[5] Kang, Y., Yoon, K., Seong, C., & Park, H. (2012). A Preliminary Study of the Automated Assessment of Prosody in Patients with Parkinson’s Disease. Communication Sciences & Disorders, 17(2), 234-248. <br/>
-[6] Nam, H. W., & Kwon, D. H. (2005). Prosodic characteristics in the persons with spastic and athetoid cerebral palsy.<br/>
-[7] Patel, R. (2002). Prosodic Control in Severe Dysarthria. Journal of Speech, Language, and Hearing Research.<br/>
-[8] Bunton, K., Kent, R. D., Kent, J. F., & Duffy, J. R. (2001). The effects of flattening fundamental frequency contours on sentence intelligibility in speakers with dysarthria. Clinical Linguistics & Phonetics, 15(3), 181-193.
-[9] Jia, Y., Zhang, Y., Weiss, R., Wang, Q., Shen, J., Ren, F., ... & Wu, Y. (2018). Transfer learning from speaker verification to multispeaker text-to-speech synthesis. In Advances in neural information processing systems (pp. 4480-4490).
+[2] Yoon, K. (2007). Imposing native speakers' prosody on non-native speakers' utterances: The technique of cloning prosody. Journal of the Modern British & American Language & Literature, 25(4), 197-215.
+[3] Bunton, K., Kent, R. D., Kent, J. F., & Rosenbek, J. C. (2000). Perceptuo-acoustic assessment of prosodic impairment in dysarthria. Clinical Linguistics & Phonetics, 14(1), 13-24.<br/>
+[4] Schlenck, K. J., Bettrich, R., & Willmes, K. (1993). Aspects of disturbed prosody in dysarthria. Clinical linguistics & phonetics, 7(2), 119-128.<br/>
+[5] Shin, H. B., & Ko, D. H. (2017). An aerodynamic and acoustic characteristics of Clear Speech in patients with Parkinson's disease. Phonetics and Speech Sciences, 9(3), 67-74.<br/> 
+[6] Kang, Y., Yoon, K., Seong, C., & Park, H. (2012). A Preliminary Study of the Automated Assessment of Prosody in Patients with Parkinson’s Disease. Communication Sciences & Disorders, 17(2), 234-248. <br/>
+[7] Nam, H. W., & Kwon, D. H. (2005). Prosodic characteristics in the persons with spastic and athetoid cerebral palsy.<br/>
+[8] Patel, R. (2002). Prosodic Control in Severe Dysarthria. Journal of Speech, Language, and Hearing Research.<br/>
+[9] Bunton, K., Kent, R. D., Kent, J. F., & Duffy, J. R. (2001). The effects of flattening fundamental frequency contours on sentence intelligibility in speakers with dysarthria. Clinical Linguistics & Phonetics, 15(3), 181-193.
+[10] Jia, Y., Zhang, Y., Weiss, R., Wang, Q., Shen, J., Ren, F., ... & Wu, Y. (2018). Transfer learning from speaker verification to multispeaker text-to-speech synthesis. In Advances in neural information processing systems (pp. 4480-4490).
 
