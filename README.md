@@ -53,7 +53,7 @@
   <img src="pictures/original_h.png" width="400"><br/>
   - This is the cloned sentence from the dysarthric speech (note the pitch and duration).
   <img src="pictures/modified_pd.png" width="400"><br/>
-  - Click [here](https://abnerling.github.io/dysarthria-audio-samples/) to listen to some audio sameples.
+  - Click [here](https://abnerling.github.io/dysarthria-audio-samples/) to listen to some audio samples.
 
 #### Perceptual task results
 - I had native listners rate original and modified speech samples using a 1-9 compregensibility scale.
