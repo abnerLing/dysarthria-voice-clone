@@ -1,6 +1,5 @@
 ## Voice conversion/cloning for improving dysarthric speech (Korean & English)
-&nbsp;
-### ****Still working on completing part 3...
+
 &nbsp;
 &nbsp;
 - This repository is my own personal testing gorunds for improving dysarthric speech.
@@ -81,12 +80,14 @@
   3. Vocoder
    -  An autoregressive WaveNet which converts the spectrogram into time domain waveforms.
   
- ### Dysarthric speech cloning
+ #### Dysarthric speech cloning
  - Since we want to improve intelligibility, the hope is that the speaker encoder only encodes linguistic information relating to the speaker and not any misarticualtions or speech errors.
  - This was tested on speakers with mild, moderate and severe dysarthria.
- - However, as expected the more severe the dysarthria, the lower the resemblance to the original speakers.
  - [Sample audio clips](https://abnerling.github.io/dysarthria-audio-samples/)
- 
+
+#### Notes regarding the cloned voice
+- In general, the more severe the dysarthria, the less resemblance to the original speaker.
+- Adding longer inputs seem to help increase speaker resemblance but reduced the quality of speech.
 
 
 
