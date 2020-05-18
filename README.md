@@ -8,7 +8,7 @@
 
 ### Table of Contents
   1. What is dysarthria
-  2. Prosody-based voice cloning (PSOLA)
+  2. Prosody-based voice cloning (PSOLA) [Audio Samples](https://abnerling.github.io/dysarthria-audio-samples/)
   3. Transfer learning based voice cloning (DNN-TTS)
   
   
@@ -46,23 +46,21 @@
   <img src="pictures/original_h.png" width="400"><br/>
   - This is the cloned sentence from the dysarthric speech (note the pitch and duration).
   <img src="pictures/modified_pd.png" width="400"><br/>
- 
+  - Click [here](https://abnerling.github.io/dysarthria-audio-samples/) to listen to some audio sameples 
 
 ### Perception task results
 - I had native listners rate original and modified speech samples using a 1-9 compregensibility scale.
   - The lower the rating the easier it is to understand the sentence while higher ratings means it was more difficult to understand the sentences.
   - As seen from the chart below, in most cases the modified speech was easier to understand.
-<img src="pictures/ratings.png" width="400"><br/>  
-
-
+<img src="pictures/ratings.png" width="400">
 
 
 ## References
-[1] Bunton, K., Kent, R. D., Kent, J. F., & Rosenbek, J. C. (2000). Perceptuo-acoustic assessment of prosodic impairment in dysarthria. Clinical Linguistics & Phonetics, 14(1), 13-24.
-[2] Schlenck, K. J., Bettrich, R., & Willmes, K. (1993). Aspects of disturbed prosody in dysarthria. Clinical linguistics & phonetics, 7(2), 119-128.
-[3] Shin, H. B., & Ko, D. H. (2017). An aerodynamic and acoustic characteristics of Clear Speech in patients with Parkinson's disease. Phonetics and Speech Sciences, 9(3), 67-74. 
-[4] Kang, Y., Yoon, K., Seong, C., & Park, H. (2012). A Preliminary Study of the Automated Assessment of Prosody in Patients with Parkinson’s Disease. Communication Sciences & Disorders, 17(2), 234-248. 
-[5] Nam, H. W., & Kwon, D. H. (2005). Prosodic characteristics in the persons with spastic and athetoid cerebral palsy.
-[6] Patel, R. (2002). Prosodic Control in Severe Dysarthria. Journal of Speech, Language, and Hearing Research.
+[1] Bunton, K., Kent, R. D., Kent, J. F., & Rosenbek, J. C. (2000). Perceptuo-acoustic assessment of prosodic impairment in dysarthria. Clinical Linguistics & Phonetics, 14(1), 13-24.<br/>
+[2] Schlenck, K. J., Bettrich, R., & Willmes, K. (1993). Aspects of disturbed prosody in dysarthria. Clinical linguistics & phonetics, 7(2), 119-128.<br/>
+[3] Shin, H. B., & Ko, D. H. (2017). An aerodynamic and acoustic characteristics of Clear Speech in patients with Parkinson's disease. Phonetics and Speech Sciences, 9(3), 67-74.<br/> 
+[4] Kang, Y., Yoon, K., Seong, C., & Park, H. (2012). A Preliminary Study of the Automated Assessment of Prosody in Patients with Parkinson’s Disease. Communication Sciences & Disorders, 17(2), 234-248. <br/>
+[5] Nam, H. W., & Kwon, D. H. (2005). Prosodic characteristics in the persons with spastic and athetoid cerebral palsy.<br/>
+[6] Patel, R. (2002). Prosodic Control in Severe Dysarthria. Journal of Speech, Language, and Hearing Research.<br/>
 [7] Bunton, K., Kent, R. D., Kent, J. F., & Duffy, J. R. (2001). The effects of flattening fundamental frequency contours on sentence intelligibility in speakers with dysarthria. Clinical Linguistics & Phonetics, 15(3), 181-193.
 
