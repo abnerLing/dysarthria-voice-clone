@@ -90,6 +90,9 @@
 - In general, the more severe the dysarthria, the less resemblance to the original speaker.
 - Adding longer inputs seem to help increase speaker resemblance but reduced the quality of speech.
 
+### Future work?
+- I might create a jupyter notebook to show how I used the model from [10] and to visualize the audio but I am a very busy with my masters thesis at the momment, so it will take a while.
+
 
 
 ## References
