@@ -56,14 +56,14 @@
   - Click [here](https://abnerling.github.io/dysarthria-audio-samples/) to listen to some audio samples.
 
 #### Perceptual task results
-- I had native listners rate original and modified speech samples using a 1-9 compregensibility scale.
+- I had native listners rate original and modified speech samples using a 1-9 comprehensibility scale.
   - The lower the rating the easier it is to understand the sentence while higher ratings means it was more difficult to understand the sentences.
   - As seen from the chart below, in most cases the modified speech was easier to understand.
 <img src="pictures/ratings.png" width="400">
 
 ## Transfer learning based voice cloning
 #### Why use transfer learning?
-  - While the PSOLA approach is intersting, it requires parallel data and forced alignment which is not feasible for a real life application.
+  - While the PSOLA approach is interesting, it requires parallel data and forced alignment which is not feasible for a real life application.
   - Another approach is to use voice cloning, where the speakers voice charactertics are captured by a neural network allowing the user to input **any** sentence via a TTS-based system.
   - This could be helpful for indivduals with impaired speech to prepare presentations or speeches in their own voice.
   - The following is a personal project to see if I could apply transfer learning to dysarthric speech in order to improve intelligibilty.
